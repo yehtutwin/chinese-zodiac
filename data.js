@@ -6,6 +6,7 @@ module.exports = {
     zodiac: {
         "rat": {
 		    "name": "Rat",
+            "mm_name": "ကြွက်",
             "character": "鼠, shǔ (子)",
             "YinYang": "Yang",
             "element": "Water",
@@ -15,6 +16,7 @@ module.exports = {
         },
         "ox": {
 		    "name": "Ox",
+            "mm_name": "နွား",
             "character": "牛, niú (丑)",
             "YinYang": "Yin",
             "element": "Earth",
@@ -24,6 +26,7 @@ module.exports = {
         },
         "tiger": {
 		    "name": "Tiger",
+            "mm_name": "ကျား",
             "character": "虎, hǔ (寅)",
             "YinYang": "Yang",
             "element": "Wood",
@@ -33,6 +36,7 @@ module.exports = {
         },
         "rabbit": {
 		    "name": "Rabbit",
+            "mm_name": "ယုန်",
             "character": "兔, tù (卯)",
             "YinYang": "Yin",
             "element": "Wood",
@@ -42,6 +46,7 @@ module.exports = {
         },
         "dragon": {
 		    "name": "Dragon",
+            "mm_name": "နဂါး",
             "character": "龙/龍, lóng (辰)",
             "YinYang": "Yang",
             "element": "Earth",
@@ -51,6 +56,7 @@ module.exports = {
         },
         "snake": {
 		    "name": "Snake",
+            "mm_name": "မြွေ",
             "character": "蛇, shé (巳)",
             "YinYang": "Yin",
             "element": "Fire",
@@ -60,6 +66,7 @@ module.exports = {
         },
         "horse": {
 		    "name": "Horse",
+            "mm_name": "မြင်း",
             "character": "马/馬, mǎ (午)",
             "YinYang": "Yang",
             "element": "Fire",
@@ -69,6 +76,7 @@ module.exports = {
         },
         "goat": {
 		    "name": "Goat",
+            "mm_name": "ဆိတ်",
             "character": "羊, yáng (未)",
             "YinYang": "Yin",
             "element": "Earth",
@@ -78,6 +86,7 @@ module.exports = {
         },
         "monkey": {
 		    "name": "Monkey",
+            "mm_name": "မျောက်",
             "character": "猴, hóu (申)",
             "YinYang": "Yang",
             "element": "Metal",
@@ -87,6 +96,7 @@ module.exports = {
         },
         "rooster": {
 		    "name": "Rooster",
+            "mm_name": "ကြက်",
             "character": "鸡/雞, jī (酉)",
             "YinYang": "Yin",
             "element": "Metal",
@@ -96,6 +106,7 @@ module.exports = {
         },
         "dog": {
 		    "name": "Dog",
+            "mm_name": "ခွေး",
             "character": "狗, gǒu (戌)",
             "YinYang": "Yang",
             "element": "Earth",
@@ -105,6 +116,7 @@ module.exports = {
         },
         "pig": {
 		    "name": "Pig",
+            "mm_name": "ဝက်",
             "character": "猪/豬, zhū (亥)",
             "YinYang": "Yin",
             "element": "Water",
